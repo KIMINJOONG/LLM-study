@@ -10,6 +10,9 @@ black = "*"
 openai = "*"
 qrcode = "*"
 langchain-experimental = "*"
+pandas = "*"
+tabulate = "*"
+langchain-openai = "*"
 
 [dev-packages]
 
